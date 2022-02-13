@@ -1,5 +1,7 @@
 # agora_chat
 
+a realtime video and audio call app implementing the agora sdk
+
 A new Flutter project.
 
 ## Getting Started
